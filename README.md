@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 2, 2018
 
 ### Student Name:  
-(First and Last Name)
+Analisa Lee
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+For this assignment I had to make a currency calculator that could convert USD to a chosen country by the user
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
